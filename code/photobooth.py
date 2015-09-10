@@ -29,5 +29,6 @@ def where_am_i():
         
 mc.postToChat("Find the Photo-Booth")
 where_am_I()
+print 'hi'
     
 
